@@ -1,0 +1,6 @@
+This is a test file with some IP addresses.
+Here are some examples:
+192.168.1.1
+10.0.0.255
+172.16.254.1
+Not an IP: 300.300.300.300

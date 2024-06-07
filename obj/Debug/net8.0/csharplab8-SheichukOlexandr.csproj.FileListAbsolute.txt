@@ -1,0 +1,15 @@
+D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\bin\Debug\net8.0\csharplab8-SheichukOlexandr.exe
+D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\bin\Debug\net8.0\csharplab8-SheichukOlexandr.deps.json
+D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\bin\Debug\net8.0\csharplab8-SheichukOlexandr.runtimeconfig.json
+D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\bin\Debug\net8.0\csharplab8-SheichukOlexandr.dll
+D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\bin\Debug\net8.0\csharplab8-SheichukOlexandr.pdb
+D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\obj\Debug\net8.0\csharplab8-SheichukOlexandr.GeneratedMSBuildEditorConfig.editorconfig
+D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\obj\Debug\net8.0\csharplab8-SheichukOlexandr.AssemblyInfoInputs.cache
+D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\obj\Debug\net8.0\csharplab8-SheichukOlexandr.AssemblyInfo.cs
+D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\obj\Debug\net8.0\csharplab8-SheichukOlexandr.csproj.CoreCompileInputs.cache
+D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\obj\Debug\net8.0\csharplab8-SheichukOlexandr.sourcelink.json
+D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\obj\Debug\net8.0\csharplab8-SheichukOlexandr.dll
+D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\obj\Debug\net8.0\refint\csharplab8-SheichukOlexandr.dll
+D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\obj\Debug\net8.0\csharplab8-SheichukOlexandr.pdb
+D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\obj\Debug\net8.0\csharplab8-SheichukOlexandr.genruntimeconfig.cache
+D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\obj\Debug\net8.0\ref\csharplab8-SheichukOlexandr.dll

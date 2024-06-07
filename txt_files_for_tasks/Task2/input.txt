@@ -1,0 +1,3 @@
+This file contains various words of different lengths.
+Short words, longer words, and even longer words.
+Let's find all words with a length of five.

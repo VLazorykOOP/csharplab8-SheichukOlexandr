@@ -1,0 +1,3 @@
+This file contains words of various lengths.
+We will display words with a specific length.
+Here are some words with different lengths.
