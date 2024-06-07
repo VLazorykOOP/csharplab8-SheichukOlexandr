@@ -16,7 +16,9 @@ class Program
             Console.WriteLine("4. Вивести на екран усi слова, довжина яких дорiвнює заданому числу");
             Console.WriteLine("5. Текст у кутових дужках замiнити вiдповiдним чином");
             Console.WriteLine("6. Вийти");
+            Console.WriteLine("");
             Console.Write("Ваш вибiр: ");
+            
             int choice = int.Parse(Console.ReadLine());
 
             switch (choice)
@@ -60,8 +62,8 @@ class Program
 
         string text = File.ReadAllText(inputFilePath);
 
-        // Регулярний вираз для пошуку IP-адрес
-        string ipPattern = @"\b(?:\d{1,3}\.){3}\d{1,3}\b";
+        // Регулярний вираз для пошуку IP-адрес з обмеженням значень октетів від 0 до 255
+        string ipPattern = @"\b((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[1-9]?[0-9])\.){3}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[1-9]?[0-9])\b";
 
         Regex regex = new Regex(ipPattern);
         MatchCollection matches = regex.Matches(text);
