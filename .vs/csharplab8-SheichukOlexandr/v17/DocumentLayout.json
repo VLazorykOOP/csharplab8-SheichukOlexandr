@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\2course\\CSharpLabs\\csharplab8\\csharplab8-SheichukOlexandr\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76370A0B-5AF0-4835-9133-F37E4B5A67DD}|csharplab8-SheichukOlexandr.csproj|D:\\2course\\CSharpLabs\\csharplab8\\csharplab8-SheichukOlexandr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76370A0B-5AF0-4835-9133-F37E4B5A67DD}|csharplab8-SheichukOlexandr.csproj|d:\\2course\\csharplabs\\csharplab8\\csharplab8-sheichukolexandr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76370A0B-5AF0-4835-9133-F37E4B5A67DD}|csharplab8-SheichukOlexandr.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\2course\\CSharpLabs\\csharplab8\\csharplab8-SheichukOlexandr\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABWAAAA",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAwGwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T20:08:42.854Z",
               "EditorCaption": ""

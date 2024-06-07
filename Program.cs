@@ -42,7 +42,7 @@ class Program
                     Console.WriteLine("Неправильний вибір. Спробуйте ще раз.");
                     break;
             }
-            Console.WriteLine("\nНатисніть будь-яку клавішу, щоб повернутися до меню...");
+            Console.WriteLine("\nНатиснiть будь-яку клавiшу, щоб повернутися до меню...");
             Console.ReadKey();
         }
     }
@@ -110,7 +110,7 @@ class Program
     static void RunTask3()
     {
         string inputFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\txt_files_for_tasks\Task3\input.txt");
-        string outputFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\txt_files_for_tasks\Task3\input.txt");
+        string outputFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"D:\2course\CSharpLabs\csharplab8\csharplab8-SheichukOlexandr\txt_files_for_tasks\Task3\output.txt");
 
         if (!File.Exists(inputFilePath))
         {
@@ -120,14 +120,15 @@ class Program
 
         string text = File.ReadAllText(inputFilePath);
 
-        string pattern = @"\b\w{1,3}(\w\w)*\b";
+        // Розділити текст на слова
+        string[] words = text.Split(new char[] { ' ', '\t', '\n', '\r', '.', ',', '!', '?' }, StringSplitOptions.RemoveEmptyEntries);
 
-        Regex regex = new Regex(pattern);
-        string result = regex.Replace(text, "");
+        // Видалити слова непарної довжини
+        string result = string.Join(" ", Array.FindAll(words, w => w.Length % 2 == 0));
 
         File.WriteAllText(outputFilePath, result);
 
-        Console.WriteLine("Removed all words of odd length.");
+        Console.WriteLine("Видалено всі слова непарної довжини.");
     }
 
     static void RunTask4()

@@ -1,4 +1,5 @@
-various
-lengths
-display
-lengths
+містить
+довжини
+довжини
+Гравець
+Магазин

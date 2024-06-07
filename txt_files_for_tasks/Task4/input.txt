@@ -1,3 +1,8 @@
-This file contains words of various lengths.
-We will display words with a specific length.
-Here are some words with different lengths.
+Цей файл містить слова різної довжини.
+Ми будемо показувати слова з певною довжиною.
+Нижче наведено кілька слів різної довжини.
+Максим
+Гравець
+Анатолій
+Магазин
+Дружба
