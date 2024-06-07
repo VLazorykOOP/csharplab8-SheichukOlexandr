@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharplab8-SheichukOlexandr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76c041097f1bd3fec86ee88027ad110e3c204f53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22f459fc479da26631003b8dcbbb66b0916935be")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharplab8-SheichukOlexandr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharplab8-SheichukOlexandr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
